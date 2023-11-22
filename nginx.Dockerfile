@@ -1,4 +1,4 @@
-FROM base:0.0.5
+FROM base:0.1.0
 
 LABEL maintainer="Your Name <your.email@example.com>"
 
